@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="leads.asmx.cs" Class="WS_sossego.Service1" %>
